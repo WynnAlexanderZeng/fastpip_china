@@ -16,7 +16,7 @@ def fpip(image,package):
     click.echo(str(image))
     click.echo(str(package))
     os.system("pip3 install -i "+ mirrors[str(image)] + str(package))
-
+    os.system("py -m pip3 install -i "+ mirrors[str(image)] + str(package))
 if __name__ == '__main__':
     fpip()
     
