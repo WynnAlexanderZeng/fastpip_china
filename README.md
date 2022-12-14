@@ -5,7 +5,7 @@
 `fpip about              |    About How to use It`  
 `fpip list               |    Viewing the Installation List`  
 `fpip help               |    Show This message`  
-##about
+##about  
 Use mirroring to quickly download Pypi packages in China.  
 在中国利用镜像快速下载Pypi的包  
 Default Mirror: Tsinghua University Open source software mirror(tsinghua)  
