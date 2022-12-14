@@ -1,4 +1,5 @@
-# fpip
+# fpip  
+更新日志：使用了sys重写  
 `fpip install xxx        |    Download from Tsinghua Mirror`  
 `fpip install xxx ustc   |    Download from USTC Mirror`  
 `fpip version            |    Viewing the Current Version`  
